@@ -48,6 +48,9 @@ Follow these simple steps to get WhatsUp up and running:
 3. **Dependencies Power-Up:** Run `flutter pub get` to install the magic ingredients your project needs.
 4. **Launch Mode:** Ignite the app with `flutter run` and watch it come to life on your chosen device or emulator.
 
+## Note
+Make Sure You are Running this Code in Physical/Real-time device or Emulator .
+
 ## How the Magic Happens 🪄
 
 1. **Join the Circle:** Sign up or log in using your phone number, and let Firebase Authentication do its thing.
@@ -62,14 +65,6 @@ At the heart of WhatsUp is the mighty Firebase Firestore. We rely on Firestore t
 ## Your Privacy, Our Priority 🛡️
 
 In WhatsUp, messages within a chat are stored exclusively on the phones of the communicating individuals. This design ensures that your conversations remain private and inaccessible to unauthorized parties. Your messages are your own, and we're committed to keeping it that way.
-
-## Known Issues
-
-- Attachments not playable when downloaded sometimes
-
-## Contribute and Elevate 🤝
-
-We heartily welcome contributions from the community to elevate the project. Share your insights, submit those bug reports, request features, and send those pull requests to make WhatsUp shine even brighter.
 
 ## The Future is Exciting 🌟
 
